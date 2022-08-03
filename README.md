@@ -6,7 +6,7 @@
 - Ending the world
 - Cryptography
 - Networking
-- Mathematics (for programming)
+- Mathematics/Physics (for programming)
 - Data Structres and Algorithms
 - Machine Learning/Artificial Intelligence
 - Hardware Hacking
@@ -67,9 +67,15 @@
 
 - `Practical Packet Analysis, 3E: Using Wireshark to Solve Real-World Network Problems`
 
-### Mathematics
+### Mathematics/Physics
 
 - `Math for Programmers: 3D graphics, machine learning, and simulations with Python`
+
+- `Learn Physics with Functional Programming`
+
+- `Doing Maths with Python`
+
+- `Micro:bits for mad scientists`
 
 ### Machine Learning/Artificial Intelligence
 
@@ -77,11 +83,13 @@
 
 - `Grokking Deep Learning`
 
-### Hardware hacking
+### Hardware hacking/programming
 
 - `The Car Hacker's Handbook: A Guide for the Penetration Tester `
 
 - `The Hardware Hacking Handbook: Breaking Embedded Security with Hardware Attacks`
+
+- `Maker's Guide to the Zombie Apocalypse`
 
 ### Linux
 
@@ -92,6 +100,8 @@
 - `Git Pocket Guide: A Working Introduction`
 
 - `vi and Vim Editors Pocket Reference: Support for every text editing task`
+
+- `Linux programming interface`
 
 ### Cryptocurrency/Blockchain
 
@@ -117,6 +127,7 @@
 ### Projects
 
 - `The Big Book of Small Python Projects: 81 Easy Practice Programs`
+- `Writing a C compiler`
 
 ### Misc
 
