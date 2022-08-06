@@ -137,6 +137,11 @@
 
 - `The Practice of Programming (Addison-Wesley Professional Computing Series)`
 
+### Other awesome repos for books
+
+[Free Programming books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md)
+
+[Awesome books](https://github.com/learn-anything/books)
 ___
 
 > More books very soon!
