@@ -8,7 +8,7 @@
 - [Networking](#networking)
 - [Mathematics/Physics (for programming)](#mathematicsphysics)
 - [Machine Learning/Artificial Intelligence](#machine-learningartificial-intelligence)
-- [Hardware Hacking](#hardware-hacking)
+- [Hardware Hacking](#hardware-hackingprogramming)
 - [Linux](#linux)
 - [Cryptocurrencies/Blockchain](#cryptocurrencyblockchain)
 - [Low level computer science](#low-level-computer-science)
