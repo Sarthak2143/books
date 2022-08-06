@@ -3,17 +3,17 @@
 ## Categories:
 
 - [Cybersecurity](#cybersecurityhacking)
-- Ending the world
-- Cryptography
-- Networking
-- Mathematics/Physics (for programming)
-- Data Structres and Algorithms
-- Machine Learning/Artificial Intelligence
-- Hardware Hacking
-- Linux
-- Cryptocurrencies/Blockchain
-- Low level computer science
-- Projects
+- [Ending the world](#ending-the-world)
+- [Cryptography](#cryptography)
+- [Networking](#networking)
+- [Mathematics/Physics (for programming)](#mathematicsphysics)
+- [Machine Learning/Artificial Intelligence](#machine-learningartificial-intelligence)
+- [Hardware Hacking](#hardware-hacking)
+- [Linux](#linux)
+- [Cryptocurrencies/Blockchain](#cryptocurrencyblockchain)
+- [Low level computer science](#low-level-computer-science)
+- [Projects](#projects)
+- [Misc](#misc)
 
 
 ### Cybersecurity/Hacking
