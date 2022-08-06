@@ -2,7 +2,7 @@
 
 ## Categories:
 
-- [Cybersecurity](#cybersecurity)
+- [Cybersecurity](#cybersecurityhacking)
 - Ending the world
 - Cryptography
 - Networking
