@@ -235,7 +235,7 @@
 
 - `DARK PSYCHOLOGY: 10 BOOKS IN 1 : Learn the Art of Persuasion, How to Influence People, Hypnosis, Manipulation Techniques, NLP Secrets, Analyze Body language, Mind Control, and Emotional Intelligence`
 
-### Other awesome repos for books
+## Other awesome repos for books
 
 [Free Programming books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md)
 
