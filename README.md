@@ -6,7 +6,7 @@
 - [Ending the world](#ending-the-world)
 - [Cryptography](#cryptography)
 - [Networking](#networking)
-- [Mathematics/Physics (for programming)](#mathematicsphysics)
+- [Mathematics/Physics (for programming)](#mathematicsphysics-for-programming)
 - [Physics](#physics)
 - [Machine Learning/Artificial Intelligence](#machine-learningartificial-intelligence)
 - [Hardware Hacking](#hardware-hackingprogramming)
@@ -82,7 +82,7 @@
 
 - `A First Course in Network Science`
 
-### Mathematics/Physics
+### Mathematics/Physics for programming 
 
 - `Math for Programmers: 3D graphics, machine learning, and simulations with Python`
 
