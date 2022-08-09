@@ -238,7 +238,6 @@
 [Free Programming books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md)
 
 [Awesome books](https://github.com/learn-anything/books)
-___
 
 > More books very soon!
 
