@@ -7,6 +7,7 @@
 - [Cryptography](#cryptography)
 - [Networking](#networking)
 - [Mathematics/Physics (for programming)](#mathematicsphysics)
+- [Physics](#physics)
 - [Machine Learning/Artificial Intelligence](#machine-learningartificial-intelligence)
 - [Hardware Hacking](#hardware-hackingprogramming)
 - [Linux](#linux)
@@ -111,6 +112,50 @@
   Guide`
 
 - `Space Mathematics: Math Problems Based on Space Science (Dover Books on Aeronautical Engineering)`
+
+### Physics
+
+- `Modern General Relativity: Black Holes, Gravitational Waves, and Cosmology`
+
+- ``Spacetime and Geometry: An Introduction to General Relativity``
+
+- ``Believing Is Seeing: A Physicist Explains How Science Shattered His Atheism and Revealed the Necessity of Faith``
+
+- ``A Brief History of Time``
+
+- ``The Art of the Cosmos: Visions from the Frontier of Deep Space Exploration``
+
+- ``Space Atlas, Second Edition: Mapping The Universe And Beyond``
+
+- ``Quantum Physics and the Power of the Mind: Discover all the important features of Quantum Physics and the Law of Attraction, find out how it really works to change your life for the better``
+
+- ``It's Really About Time: The Science of Time Travel``
+
+- ``Time Travel in Einstein's Universe: The Physical Possibilities of Travel Through Time``
+
+- ``The Grand Biocentric Design: How Life Creates Reality``
+
+- ``The Romance of Reality: How the Universe Organizes Itself to Create Life, Consciousness, and Cosmic Complexity``
+
+- ``The Case Against Reality: How Evolution Hid the Truth from Our Eyes``
+
+- ``Conscious: A Brief Guide to the Fundamental Mystery of the Mind``
+
+- ``The Physics of Consciousness: In the Quantum Field, Minerals, Plants, Animals and Human Souls (Existence - Consciousness - Bliss)``
+
+- ``The Biggest Ideas in the Universe: Space, Time, and Motion``
+
+- ``Something Deeply Hidden: Quantum Worlds and the Emergence of Spacetime``
+
+- ``Reality Is Not What It Seems: The Journey to Quantum Gravity``
+
+- `Gravitation`
+
+- `Einstein's theory of relativity (Max Born)`
+
+- `From Infinity to Man: The Fundamental Ideas of Kabbalah Within the Framework of Information Theory and Quantum Physics`
+
+- `Transformer: The Deep Chemistry of Life and Death`
 
 ### Machine Learning/Artificial Intelligence
 
