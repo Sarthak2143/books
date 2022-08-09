@@ -1,4 +1,4 @@
-# List of all Computer Science Books 
+# List of all Books
 
 ## Categories:
 
@@ -38,6 +38,8 @@
 
 - `Malware Data Science: Attack Detection and Attribution`
 
+- `Mastering Kali Linux for Advanced Penetration Testing: Become a cybersecurity ethical hacking expert using Metasploit, Nmap, Wireshark, and Burp Suite, 4th Edition`
+
 ### Ending the world
 
 - `Practical Doomsday: A User's Guide to the End of the World`
@@ -67,6 +69,18 @@
 
 - `Practical Packet Analysis, 3E: Using Wireshark to Solve Real-World Network Problems`
 
+- `Mastering Python Networking: Your one-stop solution to using Python for network automation, programmability, and DevOps, 3rd Edition`
+
+- `Network Programmability and Automation: Skills for the Next-Generation Network Engineer`
+
+- `Network Warrior: Everything You Need to Know That Wasn't on the CCNA Exam`
+
+- `Hands-On Network Programming with C: Learn socket programming in C and write secure and optimized network code`
+
+- `Learn Wireshark: Confidently navigate the Wireshark interface and solve real-world networking problems`
+
+- `A First Course in Network Science`
+
 ### Mathematics/Physics
 
 - `Math for Programmers: 3D graphics, machine learning, and simulations with Python`
@@ -76,6 +90,27 @@
 - `Doing Maths with Python`
 
 - `Micro:bits for mad scientists`
+
+- `A Student's Guide to Python for Physical Modeling: Updated Edition`
+
+- `A Student's Guide to Laplace Transforms (Student's Guides)`
+
+- `A Student's Guide to Fourier Transforms: With Applications in Physics and Engineering (Student's Guides)`
+
+- `Student's Guides (15 books)`
+
+- `Mathematics for Machine Learning`
+
+- `The Principia: The Authoritative Translation and Guide: Mathematical Principles of Natural Philosophy`
+
+- `Essential Mathematics for Quantum Computing: A beginner's guide to just the math you need without needless complexities`
+
+- `Mastering Quantum Mechanics: Essentials, Theory, and Applications`
+
+- `Fundamentals of Aerospace Engineering: (Beginner's
+  Guide`
+
+- `Space Mathematics: Math Problems Based on Space Science (Dover Books on Aeronautical Engineering)`
 
 ### Machine Learning/Artificial Intelligence
 
@@ -91,6 +126,9 @@
 
 - `Maker's Guide to the Zombie Apocalypse`
 
+- `Hacking Connected Cars: Tactics, Techniques, and Procedures`
+
+
 ### Linux
 
 - `Bash Pocket Reference: Help for Power Users and Sys Admins`
@@ -102,6 +140,14 @@
 - `vi and Vim Editors Pocket Reference: Support for every text editing task`
 
 - `Linux programming interface`
+
+- `Linux Kernel Programming: A comprehensive guide to kernel internals, writing kernel modules, and kernel synchronization`
+
+- `Linux Kernel Programming Part 2 - Char Device Drivers and Kernel Synchronization: Create user-kernel interfaces, work with peripheral I/O, and handle hardware interrupts`
+
+- `Mastering Linux Shell Scripting: A practical guide to Linux command-line, Bash scripting, and Shell programming, 2nd Edition`
+
+- `The Linux Command Line, 2nd Edition: A Complete Introduction`
 
 ### Cryptocurrency/Blockchain
 
@@ -127,6 +173,9 @@
 ### Projects
 
 - `The Big Book of Small Python Projects: 81 Easy Practice Programs`
+
+- `Impractical python projects`
+
 - `Writing a C compiler`
 
 ### Misc
@@ -136,6 +185,8 @@
 - `Go Programming Language, The (Addison-Wesley Professional Computing Series)`
 
 - `The Practice of Programming (Addison-Wesley Professional Computing Series)`
+
+- `DARK PSYCHOLOGY: 10 BOOKS IN 1 : Learn the Art of Persuasion, How to Influence People, Hypnosis, Manipulation Techniques, NLP Secrets, Analyze Body language, Mind Control, and Emotional Intelligence`
 
 ### Other awesome repos for books
 
