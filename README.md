@@ -115,6 +115,10 @@
 
 - `Space Mathematics: Math Problems Based on Space Science (Dover Books on Aeronautical Engineering)`
 
+- `Problems and Solutions in Scientific Computing with C++ and Java Simulations`
+
+- `Introduction to Computational Mathematics`
+
 ### Physics
 
 - `Modern General Relativity: Black Holes, Gravitational Waves, and Cosmology`
