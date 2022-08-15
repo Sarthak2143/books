@@ -237,6 +237,10 @@
 
 - `The Practice of Programming (Addison-Wesley Professional Computing Series)`
 
+- `Software Engineering at Google`
+
+- `40 Algorithms Every Programmer Should Know`
+
 - `DARK PSYCHOLOGY: 10 BOOKS IN 1 : Learn the Art of Persuasion, How to Influence People, Hypnosis, Manipulation Techniques, NLP Secrets, Analyze Body language, Mind Control, and Emotional Intelligence`
 
 ## Other awesome repos for books
