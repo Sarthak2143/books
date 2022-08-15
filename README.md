@@ -179,6 +179,7 @@
 
 - `Hacking Connected Cars: Tactics, Techniques, and Procedures`
 
+- `Hardcore programming for Mechanical Engineer`
 
 ### Linux
 
