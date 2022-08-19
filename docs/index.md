@@ -224,6 +224,8 @@
 
 - The Big Book of Small Python Projects: 81 Easy Practice Programs 
 
+- Tiny python projects
+
 - Impractical python projects 
 
 - Writing a C compiler 

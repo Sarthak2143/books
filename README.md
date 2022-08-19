@@ -228,6 +228,8 @@
 
 - Impractical python projects 
 
+- Tiny python projects
+
 - Writing a C compiler 
 
 ### Misc
