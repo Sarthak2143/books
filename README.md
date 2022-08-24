@@ -13,6 +13,7 @@
 - [Machine Learning/Artificial Intelligence](#machine-learningartificial-intelligence)
 - [Hardware Hacking](#hardware-hackingprogramming)
 - [Linux](#linux)
+- [Game Development](#game-development)
 - [Cryptocurrencies/Blockchain](#cryptocurrencyblockchain)
 - [Low level computer science](#low-level-computer-science)
 - [Projects](#projects)
@@ -59,10 +60,29 @@
 
 - This Is How They Tell Me the World Ends: The Cyberweapons Arms Race 
 
+- The Art of Invisibility
+
+- Ghost in the Wires: My Adventures as the World's Most Wanted Hacker
+
+- The Art of Deception: Controlling the Human Element of Security
+
+- Social Engineering: The Science of Human Hacking
+
+- The Fifth Domain: Defending Our Country, Our Companies, and Ourselves in the Age of Cyber Threats
+
+- Dark Territory: The Secret History of Cyber War
+
+- The Perfect Weapon: War, Sabotage, and Fear in the Cyber Age
+
+- Tracers in the Dark: The Global Hunt for the Crime Lords of Cryptocurrency
+
+- Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers
 
 ### Cryptography
 
 - Serious Cryptography: A Practical Introduction to Modern Encryption 
+
+- The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography
 
 ### Networking
 
@@ -201,6 +221,10 @@
 
 - The Linux Command Line, 2nd Edition: A Complete Introduction 
 
+### Game development
+
+- The C# Player's Guide (5th Edition)
+
 ### Cryptocurrency/Blockchain
 
 - Programming Bitcoin: Learn How to Program Bitcoin from Scratch 
@@ -214,6 +238,8 @@
 ### Low Level Computer Science
 
 - Crafting Interpreters 
+
+- Introduction to Compilers and Language Design: Second Edition
 
 - Hacker's delight, 2nd edition 
 
