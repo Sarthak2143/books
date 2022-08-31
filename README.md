@@ -1,4 +1,4 @@
-# Book
+# Books
 
 [Live site](https://sarthak2143.github.io/books)
 
