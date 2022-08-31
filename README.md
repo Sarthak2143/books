@@ -1,4 +1,4 @@
-# List of all Books
+# Book
 
 [Live site](https://sarthak2143.github.io/books)
 
