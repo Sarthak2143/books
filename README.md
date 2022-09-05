@@ -10,7 +10,7 @@
 - [Networking](#networking)
 - [Mathematics/Physics (for programming)](#mathematicsphysics-for-programming)
 - [Physics](#physics)
-- [Machine Learning/Artificial Intelligence](#machine-learningartificial-intelligence)
+- [Machine Learning/Data Science](#machine-learningdata-science)
 - [Hardware Hacking](#hardware-hackingprogramming)
 - [Linux](#linux)
 - [Game Development](#game-development)
@@ -155,7 +155,7 @@
 
 - Quantum Physics and the Power of the Mind: Discover all the important features of Quantum Physics and the Law of Attraction, find out how it really works to change your life for the better  
 
-- It's Really About Time: The Science of Time Travel  
+- It's Really About Time: The Science of Time Travel
 
 - Time Travel in Einstein's Universe: The Physical Possibilities of Travel Through Time  
 
@@ -183,11 +183,21 @@
 
 - Transformer: The Deep Chemistry of Life and Death 
 
-### Machine Learning/Artificial Intelligence
+### Machine Learning/Data Science
 
-- Grokking Artificial Intelligence Algorithms: Understand and apply the core algorithms of deep learning and artificial intelligence in this friendly illustrated guide including exercises and examples 
+- Grokking Artificial Intelligence
 
-- Grokking Deep Learning 
+- Grokking Deep Learning
+
+- Introduction to Machine Learning with Python: A Guide for Data Scientists
+
+- Hands On Machine Learning with Scikit Learn, Keras & Tensorflow
+
+- Practical Statistics for Data Scientists
+
+- Python Data Science Handbook
+
+- Data Science from Scratch
 
 ### Hardware hacking/programming
 
