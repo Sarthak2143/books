@@ -9,11 +9,12 @@
 - [Mathematics/Physics (for programming)](#mathematicsphysics-for-programming)
 - [Physics](#physics)
 - [Machine Learning/Data Science](#machine-learningdata-science)
+- [Programming Languages](#programming-languages)
 - [Hardware Hacking](#hardware-hackingprogramming)
 - [Linux](#linux)
 - [Game Development](#game-development)
 - [Cryptocurrencies/Blockchain](#cryptocurrencyblockchain)
-- [Low level computer science](#low-level-computer-science)
+- [Theoretical Computer Science](#theoretical-computer-science)
 - [Projects](#projects)
 - [Misc](#misc)
 
@@ -102,7 +103,7 @@
 
 - A First Course in Network Science 
 
-### Mathematics/Physics for programming 
+### Mathematics/Physics for Programming 
 
 - Math for Programmers: 3D graphics, machine learning, and simulations with Python 
 
@@ -197,7 +198,23 @@
 
 - Data Science from Scratch
 
-### Hardware hacking/programming
+### Programming Languages
+
+- Go Programming Language, The (Addison-Wesley Professional Computing Series)
+
+- The C Programming Language
+
+- Modern C
+
+- Haskell in Depth
+
+- Hugo in Action
+
+- Go in Action
+
+- Rust in Action
+
+### Hardware Hacking/Programming
 
 - The Car Hacker's Handbook: A Guide for the Penetration Tester  
 
@@ -243,9 +260,7 @@
 
 - Mastering the Lightning Network: A Second Layer Blockchain Protocol for Instant Bitcoin Payments 
 
-### Low Level Computer Science
-
-- Crafting Interpreters
+### Theoretical Computer Science
 
 - Introduction to Compilers and Language Design: Second Edition 
 
@@ -255,7 +270,13 @@
 
 - How Computers Really Work: A Hands-On Guide to the Inner Workings of the Machine 
 
+- The Practice of Programming (Addison-Wesley Professional Computing Series)
+
+- 40 Algorithms Every Programmer Should Know
+
 ### Projects
+
+- Crafting Interpreters
 
 - The Big Book of Small Python Projects: 81 Easy Practice Programs 
 
@@ -269,13 +290,7 @@
 
 - Programming Quantum Computers: Essential Algorithms and Code Samples 
 
-- Go Programming Language, The (Addison-Wesley Professional Computing Series) 
-
-- The Practice of Programming (Addison-Wesley Professional Computing Series)
-
 - Software Engineering at Google
-
-- 40 Algorithms Every Programmer Should Know
 
 - DARK PSYCHOLOGY: 10 BOOKS IN 1 : Learn the Art of Persuasion, How to Influence People, Hypnosis, Manipulation Techniques, NLP Secrets, Analyze Body language, Mind Control, and Emotional Intelligence 
 
